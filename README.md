@@ -1,2 +1,2 @@
-# toxic-youtube-comments
-유튜브의 한글 댓글 중 악플 분류
+# trolls-on-youtube
+Identify aggressive comments on youtube using LSTM model. 
