@@ -11,4 +11,5 @@ In order to train model on the collected dataset, we use the following steps to 
 
 ### Model 
 
+![lstm](lstm.gif)
 ### Results 
