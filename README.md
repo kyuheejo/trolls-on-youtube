@@ -1,4 +1,4 @@
-# trolls-on-youtube
+# Aggressive comment classifier 
 Identify aggressive comments on youtube using LSTM model. 
 
 ### Dataset
